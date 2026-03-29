@@ -1,0 +1,15 @@
+# Version control
+.git
+.gitignore
+
+# IDEs
+.idea
+.vscode
+*.iml
+
+# Build directories
+target/
+.maven
+
+# Other
+*.md
